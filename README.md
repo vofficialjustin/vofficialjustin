@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Justin
+I’m a Computer Science student at Old Dominion University, passionate about building software, solving problems, and continuously learning in the field of technology.
 
-<!--
-**vofficialjustin/vofficialjustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Interested in software development, algorithms, and AI
+🏀 Enjoy staying active through basketball and fitness
+🎮 Lifelong gamer who also enjoys building and customizing PC setups
+📚 Currently working on improving my programming skills and exploring new tech projects
 
-Here are some ideas to get you started:
+🌱 What I’m Working On
+Expanding my knowledge of data structures, algorithms, and system design
+Building projects to sharpen my Java, Python, and web development skills
+Preparing for a potential internship in software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me
+📧 Email: justin.carmona.123@gmail.com
+💼 LinkedIn: Justin Carmona
